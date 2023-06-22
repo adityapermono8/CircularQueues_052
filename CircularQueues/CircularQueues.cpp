@@ -95,7 +95,10 @@ public:
 				FRONT_position++;
 			}
 			cout << endl;
-	}
-	
+		}
 	}
 };
+
+int main() {
+
+}
